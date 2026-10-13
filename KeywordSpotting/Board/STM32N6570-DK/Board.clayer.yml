@@ -31,7 +31,7 @@ layer:
     - pack: Keil::STM32N6xx_DFP@^1.2.0-0
     - pack: Keil::STM32N6570-DK_BSP@^1.1.0-0
     - pack: ARM::CMSIS-Driver_STM32@^1.4.0-0
-    - pack: ARM::CMSIS@^6.2.0
+    - pack: ARM::CMSIS@6.4.0
     - pack: ARM::CMSIS-Compiler@^2.0.0
 
   components:
